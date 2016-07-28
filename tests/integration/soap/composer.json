@@ -1,6 +1,7 @@
 {
     "require": {
-        "ext-soap": "*"
+        "ext-soap": "*",
+        "phpunit/phpunit": "4.1.x"
     },
     "autoload": {
         "classmap": ["src/"]
